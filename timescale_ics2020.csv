@@ -1,0 +1,13 @@
+Start,End,Range,Midpoint,Type,Abbrev,Part_of,Name,Source,Col_R,Col_G,Col_B
+2.58,0,2.58,1.29,Period,,<NA>,Quat,ICS,249,249,127
+23.03,2.58,20.45,12.805,Period,Ng,<NA>,Neogene,ICS,255,230,25
+66,23.03,42.97,44.515,Period,Pg,<NA>,Paleogene,ICS,253,154,82
+145,66,79,105.5,Period,K,<NA>,Cretaceous,ICS,127,198,78
+201.3,145,56.3,173.15,Period,J,<NA>,Jurassic,ICS,52,178,201
+251.902,201.3,50.602,226.601,Period,Tr,<NA>,Triassic,ICS,129,43,146
+298.9,251.902,46.998,275.401,Period,P,<NA>,Permian,ICS,240,64,40
+358.9,298.9,60,328.9,Period,C,<NA>,Carboniferous,ICS,103,165,153
+419.2,358.9,60.3,389.05,Period,D,<NA>,Devonian,ICS,203,140,55
+443.8,419.2,24.6,431.5,Period,S,<NA>,Silurian,ICS,179,225,182
+485.4,443.8,41.6,464.6,Period,O,<NA>,Ordovician,ICS,0,146,112
+541,485.4,55.6,513.2,Period,Cm,<NA>,Cambrian,ICS,127,160,86
